@@ -1,6 +1,6 @@
 ## Getting Started
 
-- [@akadenia/utilities](#akadeniautilities)
+- [@chlela/utilities](#akadeniautilities)
 - [Publishing Instructions](#publishing-instructions)
 - [DateHelpers](#datehelpers)
   - [`DateHelpers.getReadableDateTime(datetime)`](#datehelpersgetreadabledatetimedatetime)
@@ -42,7 +42,7 @@
 
 Import the DateHelpers utility.
 
-`import { DateHelpers } from "@akadenia/utilities`
+`import { DateHelpers } from "@chlela/utilities`
 
 ## `DateHelpers.getReadableDateTime(datetime)`
 
@@ -75,7 +75,7 @@ Arguments
 
 Import the MapHelpers utility.
 
-`import { MapHelpers } from "@akadenia/utilities`
+`import { MapHelpers } from "@chlela/utilities`
 
 ## `MapHelpers.getDistanceBetweenPoints(point1, point2)`
 
@@ -111,7 +111,7 @@ Arguments
 
 Import the TextHelpers utility.
 
-`import { TextHelpers } from "@akadenia/utilities`
+`import { TextHelpers } from "@chlela/utilities`
 
 ## `TextHelpers.uuidv4()`
 
@@ -226,7 +226,7 @@ Arguments
 
 Import the ObjectHelpers utility.
 
-`import { ObjectHelpers } from "@akadenia/utilities`
+`import { ObjectHelpers } from "@chlela/utilities`
 
 ## `ObjectHelpers.isPureObject(any)`
 
@@ -326,7 +326,7 @@ Arguments
 
 Import the GenericHelpers utility.
 
-`import { GenericHelpers } from "@akadenia/utilities`
+`import { GenericHelpers } from "@chlela/utilities`
 
 ## `GenericHelpers.delay(ms)`
 

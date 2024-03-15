@@ -1,5 +1,5 @@
 {
-  "name": "@akadenia/utilities",
+  "name": "@chlela/utilities",
   "version": "1.0.0",
   "description": "Akadenia Utilities",
   "main": "dist/index.js",
@@ -15,7 +15,7 @@
     "lint": "prettier --check \"./**/*.{ts,tsx,js,jsx,json,yml}\"",
     "prepare": "npm run build",
     "version": "git add -A src",
-    "updateLink": "npm run build && npm rm @akadenia/utilities -g && npm link",
+    "updateLink": "npm run build && npm rm @chlela/utilities -g && npm link",
     "generate:docs": "jsdoc2md dist/*.js"
   },
   "files": [
