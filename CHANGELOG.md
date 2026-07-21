@@ -1,3 +1,10 @@
+## [1.11.3](https://github.com/akadenia/AkadeniaHelpers/compare/1.11.2...1.11.3) (2026-07-20)
+
+
+### Bug Fixes
+
+* resolve js-yaml security vulnerability ([#94](https://github.com/akadenia/AkadeniaHelpers/issues/94)) ([33f7443](https://github.com/akadenia/AkadeniaHelpers/commit/33f7443e9aa79533c1359cded0d8517a5366f108))
+
 ## [1.11.2](https://github.com/akadenia/AkadeniaHelpers/compare/1.11.1...1.11.2) (2026-06-29)
 
 
